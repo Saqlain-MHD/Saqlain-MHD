@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Saqlain-MHD
 - 👀 I’m interested in Technology
-- 🌱 I’m currently doing Masters
+- 🌱 I’m currently working on a AI calling assistant project - RINGZAI
 - 💞️ I’m looking to collaborate on Software/IT projects
-- 📫 How to reach me ...
+- 📫 Reach me @www.linkedin.com/in/saqlain-mohammad-javadev or saqlain.mohammad0302@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
