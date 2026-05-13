@@ -3,8 +3,8 @@
 - 🌱 I’m currently working on a AI calling assistant project - RINGZAI
 - 💞️ I’m looking to collaborate on Software/IT projects
 - 📫 Reach me @www.linkedin.com/in/saqlain-mohammad-javadev or saqlain.mohammad0302@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: (._.)
+- ⚡ Fun fact: Naruto Fanboy
 
 <!---
 Saqlain-MHD/Saqlain-MHD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
